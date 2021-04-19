@@ -5,4 +5,4 @@
 * Desenvolvendo de funcionalidades da API através da prática do TDD.
 
 
-* <b>todos os códigos foram comentados com as explicações dos teste e como meus pensamentos na hora de desenvolver </b>
+* <b>todos os códigos foram comentados com as explicações dos teste e com os meus pensamentos na hora de desenvolver </b>
